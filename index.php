@@ -1,0 +1,2 @@
+<?php
+// WordPress is beautiful 💓

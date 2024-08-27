@@ -1,0 +1,16 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "my-blocks/text",
+  "version": "1.0.0",
+  "title": "Text Block - Text",
+  "category": "my-blocks",
+  "icon": "media-text",
+  "description": "A text block",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "my-blocks",
+  "editorScript": "file:./app.js",
+  "editorStyle": "file:./app.css"
+}
