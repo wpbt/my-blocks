@@ -1,4 +1,4 @@
-# Welcome to my plugin: My Block
+# Welcome to my plugin: My Blocks
 
 This plugin is only for learning purpose.
 

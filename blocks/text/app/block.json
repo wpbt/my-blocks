@@ -6,11 +6,20 @@
     "title": "Text Block - Text",
     "category": "my-blocks",
     "icon": "media-text",
-    "description": "A text block",
+    "description": "A text block from My Blocks Library",
+    "example": {},
     "supports": {
-        "html": false
+        "color": {
+            "background": true,
+            "text": true
+        },
+        "html": false,
+        "typography": {
+            "fontSize": false
+        }
     },
     "textdomain": "my-blocks",
     "editorScript": "file:./app.js",
+    "render": "file:./render.php",
     "editorStyle": "file:./app.css"
 }

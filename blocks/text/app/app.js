@@ -1,4 +1,9 @@
-import './editor-style.css';
-import './app.css';
+import metadata from './block.json';
+import Edit from './edit';
+import { icon } from './assets';
 
-console.log( 'hello from my blocks - text block' );
+
+// registerBlockType( metadata.name, {
+//     icon: icon,
+//     edit: Edit,
+// } );
